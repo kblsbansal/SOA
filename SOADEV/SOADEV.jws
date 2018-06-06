@@ -25,6 +25,7 @@
    <list n="listOfChildren">
       <hash><url n="URL" path="HelloSarath/HelloSarath.jpr"/></hash>
       <hash><url n="URL" path="HelloSaurav/HelloSaurav.jpr"/></hash>
+      <hash><url n="URL" path="HelloWorld/HelloWorld.jpr"/></hash>
       <hash><url n="URL" path="HiSaurav/HiSaurav.jpr"/></hash>
    </list>
 </jws:workspace>
