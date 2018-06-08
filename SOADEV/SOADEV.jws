@@ -23,6 +23,7 @@
       <string v="oracle.jdeveloper.model.PathsConfiguration/ResourceBundlesContentSet"/>
    </list>
    <list n="listOfChildren">
+      <hash><url n="URL" path="HelloPramod/HelloPramod.jpr"/></hash>
       <hash><url n="URL" path="HelloSarath/HelloSarath.jpr"/></hash>
       <hash><url n="URL" path="HelloSaurav/HelloSaurav.jpr"/></hash>
       <hash><url n="URL" path="HelloWorld/HelloWorld.jpr"/></hash>
